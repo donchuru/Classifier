@@ -7,4 +7,4 @@ The program is written using mostly the concepts of object oriented programming
 How To run:
 1. Clone the project
 2. Open the project in terminal
-3. Run the .py file with the following command: `ooclassifer.py`
+3. Run the .py file with the following command: `ooclassiferbase.py`
